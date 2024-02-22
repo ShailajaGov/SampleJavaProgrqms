@@ -2,7 +2,7 @@ package JavaTraining;
 
 public class AddNumbersInGivenNumber {
 
-	
+	//add method
 	public void add(int a)
 	{
 		System.out.println("Given number :"+ a);
