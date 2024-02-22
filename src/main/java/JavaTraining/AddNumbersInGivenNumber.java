@@ -1,5 +1,6 @@
 package JavaTraining;
 
+//comments  from team member
 public class AddNumbersInGivenNumber {
 
 	//add method
