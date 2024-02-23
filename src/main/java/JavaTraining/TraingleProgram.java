@@ -2,6 +2,7 @@ package JavaTraining;
 
 public class TraingleProgram {
 
+	//traingle program
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
