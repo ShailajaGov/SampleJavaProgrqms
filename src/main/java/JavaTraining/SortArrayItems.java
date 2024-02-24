@@ -1,7 +1,7 @@
 package JavaTraining;
 
 public class SortArrayItems {
-
+//sort array element
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
